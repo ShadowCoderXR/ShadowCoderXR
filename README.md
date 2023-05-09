@@ -65,7 +65,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=UmbraCorvus&show_icons=true&theme=transparent&hide_border=true&locale=es">
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmbraCorvus&layout=compact&theme=transparent&hide_border=true&locale=es">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmbraCorvus&layout=compact&theme=transparent&hide_border=true&locale=es&token=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">
     </td>
   </tr>
 </table>
