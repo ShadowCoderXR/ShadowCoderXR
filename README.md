@@ -2,14 +2,16 @@
 
 ![Día a día](https://github.com/UmbraCorvus/UmbraCorvus/assets/105474215/403759a3-ff1e-4f18-b108-39a1e8593969)
 
-<h3 align="center">Sobre mí</h3>
-- :pencil2: *Estudiante de la Universidad Politécnica de Tecámac*
-- :computer_mouse: *Estudiante de Ingeniería en Software*
-- :gear: *Futuro desarrollador*
-- :video_game: Gamer en tiempo libre
-- :notes: Artista por hobbie
+<h2 align="center">Sobre mí</h3>
+<ul>
+    <li><i>:pencil2: Estudiante de la Universidad Politécnica de Tecámac</i></li>
+    <li><i>:computer_mouse: Estudiante de Ingeniería en Software</i></li>
+    <li><i>:gear: Futuro desarrollador</i></li>
+    <li><i>:video_game: Gamer en tiempo libre</i></li>
+    <li><i>:notes: Artista por hobbie</i></li>
+</ul>
 
-<h3 align="center">Herramientas</h3>
+<h2 align="center">Herramientas</h3>
 <h5>Lenguajes</h5>
 <p align="center">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="">
@@ -51,12 +53,24 @@
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="">
 </p>
 
-<h3 align="center">Contacto</h3>
+<h2 align="center">Estadísticas</h3>
+<table align="center">
+  <tr>
+    <td colspan="2">
+      <img src="https://streak-stats.demolab.com?user=UmbraCorvus&theme=transparent&hide_border=true&locale=es&card_width=1000" alt="" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=UmbraCorvus&show_icons=true&theme=transparent&hide_border=true&locale=es">
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmbraCorvus&layout=compact&theme=transparent&hide_border=true&locale=es">
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">Contacto</h3>
 <p align="center">
     <a href="https://www.facebook.com/raul.h.silva.9/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt=""></a>
-</p>
-
-<h3 align="center">Estadísticas</h3>
-<p align="center">
-    <img src="https://streak-stats.demolab.com?user=UmbraCorvus&theme=highcontrast&locale=es" alt="" width="100%">
 </p>
