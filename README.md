@@ -57,15 +57,15 @@
 <table align="center">
   <tr>
     <td colspan="2">
-      <img src="https://streak-stats.demolab.com?user=UmbraCorvus&theme=transparent&hide_border=true&locale=es&card_width=1000" alt="" width="100%">
+      <img src="https://streak-stats.demolab.com?user=ShadowCoderXR&theme=transparent&hide_border=true&locale=es&card_width=1000" alt="" width="100%">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=UmbraCorvus&show_icons=true&theme=transparent&hide_border=true&locale=es&token=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">
+      <img src="https://github-readme-stats.vercel.app/api?username=ShadowCoderXR&show_icons=true&theme=transparent&hide_border=true&locale=es&token=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">
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmbraCorvus&layout=compact&theme=transparent&hide_border=true&locale=es&token=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">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowCoderXR&layout=compact&theme=transparent&hide_border=true&locale=es&token=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">
     </td>
   </tr>
 </table>
